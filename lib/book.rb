@@ -29,6 +29,7 @@ def turn_page
 end
 end
 end 
+
 book = Book.new("Some Title")
 book.turn_page
 
